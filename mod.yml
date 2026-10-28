@@ -1,0 +1,49 @@
+title: KH1FM Kingdom Key Offhand Integrated v6 - Visual Contact
+originalAuthor: OpenAI / Raven Fang source assets
+description: "Normal Sora Kingdom Key duplicate: confirmed descriptor 6 / joint 205 / 50-degree assets, with the v6 Lua supplied in lua/. Copy that Lua to the active scripts folder. Damage requires fresh blade contact and a matching native attack-builder event."
+game: kh1
+assets:
+  - name: obj/xa_ex_0010.mdls
+    method: copy
+    source:
+      - name: xa_ex_0010.mdls
+  - name: obj/xa_ex_0012.mdls
+    method: copy
+    source:
+      - name: xa_ex_0012.mdls
+  - name: obj/xa_ex_0019.mdls
+    method: copy
+    source:
+      - name: xa_ex_0019.mdls
+  - name: remastered/xa_ex_0010.mdls/-c0.cvbl
+    method: copy
+    source:
+      - name: remastered/xa_ex_0010.mdls/-c0.cvbl
+  - name: remastered/xa_ex_0010.mdls/-1c2.dds
+    method: copy
+    source:
+      - name: remastered/xa_ex_0010.mdls/-1c2.dds
+  - name: remastered/xa_ex_0012.mdls/-c0.cvbl
+    method: copy
+    source:
+      - name: remastered/xa_ex_0012.mdls/-c0.cvbl
+  - name: remastered/xa_ex_0012.mdls/-1c2.dds
+    method: copy
+    source:
+      - name: remastered/xa_ex_0012.mdls/-1c2.dds
+  - name: remastered/xa_ex_0019.mdls/-c0.cvbl
+    method: copy
+    source:
+      - name: remastered/xa_ex_0019.mdls/-c0.cvbl
+  - name: remastered/xa_ex_0019.mdls/-1c2.dds
+    method: copy
+    source:
+      - name: remastered/xa_ex_0019.mdls/-1c2.dds
+  - name: remastered/xw_ex_5010.wpn/-9a40.cvbl
+    method: copy
+    source:
+      - name: remastered/xw_ex_5010.wpn/-9a40.cvbl
+  - name: remastered/xw_ex_5010.wpn/-9b40.dds
+    method: copy
+    source:
+      - name: remastered/xw_ex_5010.wpn/-9b40.dds
